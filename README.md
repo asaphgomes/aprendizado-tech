@@ -5,3 +5,4 @@ Neste repositório, pretendo upar constantemente meus aprendizados para acompanh
 * git
 * Python
 * Banco de Dados Relacionais
+* SQL
