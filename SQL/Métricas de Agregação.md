@@ -1,7 +1,3 @@
-# Métricas de Agregação
-
-Status: Not started
-
 # Métricas de Agregação em SQL
 
 As métricas de agregação em SQL são funções utilizadas para realizar cálculos em conjunto de dados agrupados. Estas funções podem ser aplicadas em conjunto com a cláusula "GROUP BY" para fornecer resultados agregados para cada grupo de dados.
