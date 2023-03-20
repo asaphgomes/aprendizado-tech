@@ -1,9 +1,5 @@
 # SCHEMAS
 
-Status: Not started
-
-# SCHEMAS
-
 Um schema em SQL é uma coleção lógica de objetos de banco de dados, como tabelas, visualizações, procedimentos armazenados, etc. Os objetos são geralmente relacionados a um aplicativo específico ou a um usuário específico.
 
 Os schemas podem ser usados para separar objetos de banco de dados pertencentes a aplicativos diferentes, evitando conflitos de nomeação de objetos. Eles também podem ajudar a gerenciar a segurança e as permissões de acesso aos objetos de banco de dados.
