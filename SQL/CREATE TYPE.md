@@ -1,11 +1,8 @@
-# CREATE TYPE
-
-Status: Not started
-URL: https://www.postgresql.org/docs/current/sql-createtype.html
-
 # CRIAR TIPO
 
 O comando **CREATE TYPE** é usado para criar um novo tipo de dados definido pelo usuário no banco de dados. Esses tipos de dados personalizados podem ser usados para criar colunas personalizadas em tabelas de banco de dados.
+
+**DOCUMENTAÇÃO:** https://www.postgresql.org/docs/current/sql-createtype.html
 
 ## Sintaxe
 
@@ -40,7 +37,5 @@ CREATE TABLE clientes (
     endereco endereco
 );
 ```
-
-## Conclusão
 
 O comando **CREATE TYPE** é uma ferramenta poderosa para criar tipos de dados personalizados em um banco de dados. Isso permite que os usuários criem estruturas de dados altamente personalizadas e reutilizáveis, tornando o processo de modelagem de dados mais eficiente e flexível.
